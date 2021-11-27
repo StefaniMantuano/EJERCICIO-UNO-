@@ -1,0 +1,15 @@
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\StefaniaMantuano.Profesor.exe
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\StefaniaMantuano.Profesor.deps.json
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\StefaniaMantuano.Profesor.runtimeconfig.json
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\StefaniaMantuano.Profesor.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\ref\StefaniaMantuano.Profesor.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\bin\Debug\net6.0\StefaniaMantuano.Profesor.pdb
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.csproj.AssemblyReference.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\ref\StefaniaMantuano.Profesor.dll
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.pdb
+C:\Users\CompuStore\source\repos\StefaniaMantuano.Profesor\StefaniaMantuano.Profesor\obj\Debug\net6.0\StefaniaMantuano.Profesor.genruntimeconfig.cache

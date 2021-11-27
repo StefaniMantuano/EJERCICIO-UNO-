@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StefaniaMantuano.Profesor.Empleado">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAKQACAAAAAAAAAAAAAAAAAAAAAACAAIAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.Estudiantes">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAACAAAAIgAAAAAAA=</HashCode>
+      <FileName>Estudiantes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.PersonalServicio">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAQBAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalServicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.Personas">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAABAQAgAAEAEAAQAAAAABAAAAAAAAADAREAAA=</HashCode>
+      <FileName>Personas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.Profesores">
+    <Position X="14.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAABAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profesores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.ProfesoresContrato">
+    <Position X="14.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAARQAAAAAAAAAAEAAAAAAAAAAABAAAAAEAAA=</HashCode>
+      <FileName>ProfesoresContrato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.ProfesoresNombramiento">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABQBCAAAAAAAAAAAAACAABgAAAAAAAAAAAA=</HashCode>
+      <FileName>ProfesoresNombramiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StefaniaMantuano.Profesor.Program">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
